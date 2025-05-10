@@ -29,16 +29,7 @@
 
 ---
 
-## 🚀 Featured Projects
 
-| Project | Description | Tech Stack |
-|--------|-------------|------------|
-| [Store](https://github.com/aminrostamii/store) | E-commerce app with Context API and custom hooks | React, Tailwind |
-| [Cars Dealing](https://github.com/aminrostamii/cars-dealing) | Vehicle listing and management platform | Next.js, Tailwind |
-| [Food Ordering](https://github.com/aminrostamii/food-ordering) | Food ordering UI with cart and alerts | React, Context API |
-| [Reservix](https://github.com/aminrostamii/reservix) | Hair salon appointment booking system | Next.js, MongoDB, Tailwind |
-
----
 
 ## 📊 GitHub Stats
 
