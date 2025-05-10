@@ -5,10 +5,9 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 Computer Engineering (Software) student at TVU Chamran, Kerman  
+- 🎓 Computer Engineering (Software) student 
 - 💼 Former Frontend Developer at **Movazi Pardaz** (June 2023 – May 2024)  
-- 🏆 1st Place Winner - Web Programming, Scientific & Research Festival, Kerman Province (Nov 2023)  
-- 🌱 Currently learning **TypeScript, Git Flow, Docker, and Linux**  
+- 🏆 1st Place Winner - Web Programming, Scientific & Research Festival  (Nov 2023)  
 - 🧑‍🏫 Future goal: Become a renowned teacher and tech mentor in web development
 
 ---
@@ -24,6 +23,9 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![ShadCN UI](https://img.shields.io/badge/ShadCN_UI-%23FFFFFF?style=flat&logo=radix-ui&logoColor=black)
 
 ---
 
@@ -48,7 +50,7 @@
 ## 📫 Connect with Me
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:rstamin177@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aminrostamii)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rostami-amin/)
 
 ---
 
